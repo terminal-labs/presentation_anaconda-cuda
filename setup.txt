@@ -1,4 +1,4 @@
 install miniconda
 run "conda create --name cuda python=3.6"
-run "source actiavte cuda"
+run "source activate cuda"
 run "conda install anaconda"
