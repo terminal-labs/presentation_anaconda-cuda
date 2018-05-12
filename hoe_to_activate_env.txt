@@ -1,0 +1,9 @@
+run "source activate py36"
+
+or
+
+run "source activate py27"
+
+or
+
+run "source activate py1"
