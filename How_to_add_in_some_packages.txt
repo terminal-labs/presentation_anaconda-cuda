@@ -1,1 +1,2 @@
+run the command below to install "pyqt"
 conda install pyqt
