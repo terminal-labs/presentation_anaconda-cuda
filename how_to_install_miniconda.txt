@@ -1,1 +1,11 @@
 https://conda.io/miniconda.html
+
+download installer for your platform I used this link:
+
+https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+make the file executable with
+
+sudo chmod +x Miniconda3-latest-Linux-x86_64.sh
+
+try it out. simply run "conda" you should see some interesting output that lists available commands.
