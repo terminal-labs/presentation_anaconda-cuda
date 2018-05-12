@@ -1,1 +1,1 @@
-conda install -c anaconda pyqt
+conda install pyqt
