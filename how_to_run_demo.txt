@@ -5,7 +5,7 @@ in a activated conda python36 env run:
 conda install pyqt
 pip install pywebview
 
-cd into pywebview/examples/flask_app 
+now cd into pywebview/examples/flask_app 
 
 run:
 
