@@ -1,0 +1,12 @@
+git clone git@github.com:r0x0r/pywebview.git
+
+in a conda python36 env run:
+
+conda install pyqt
+pip install pywebview
+
+cd into pywebview/examples/flask_app 
+
+run:
+
+python src/backend/main.py 
