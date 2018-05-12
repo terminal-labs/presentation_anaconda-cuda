@@ -1,0 +1,9 @@
+run "conda create --name py36 python=3.6"
+
+or
+
+run "conda create --name py27 python=2.7"
+
+or
+
+run "conda create --name py1 python=1.0"
