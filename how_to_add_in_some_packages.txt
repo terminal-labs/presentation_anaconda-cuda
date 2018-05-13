@@ -1,2 +1,3 @@
-run the command below to install "pyqt"
+conda install anaconda
+conda install -c anaconda cudatoolkit 
 conda install pyqt
