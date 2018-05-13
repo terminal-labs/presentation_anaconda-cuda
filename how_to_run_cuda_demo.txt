@@ -1,0 +1,2 @@
+python with_cuda.py
+python without_cuda.py
