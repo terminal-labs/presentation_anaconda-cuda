@@ -7,4 +7,4 @@ extra software:
   git
   atom
 cuda version is cuda_9.0.176_384
-cuda driver code + related python systems needed to interact with cuda take up about about 10gb od drive space
+cuda driver code + related python systems needed to interact with cuda take up about 10gb od drive space
