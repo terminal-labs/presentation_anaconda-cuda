@@ -1,0 +1,9 @@
+I am running ubuntu-16.04.4-desktop lts (from ubuntu-16.04.4-desktop-amd64.iso 2018-02-28 19:15)
+on a sony svs151190x with 8gb ram and a 4-core Intel i7-3612QM
+with a GeForce GT 640M gpu (384 cuda cores)
+extra software:
+  chrome
+  miniconda
+  git
+  atom
+cuda version is cuda_9.0.176_384
